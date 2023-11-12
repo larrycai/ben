@@ -1,8 +1,9 @@
 .DS_Store
 .ipynb_checkpoints
 __pycache__
-src/gamedb.*
-
+gamedb.*
+build/
+dist/
 scripts/match/bidding/0.1
 scripts/match/bidding/0.2
 scripts/match/bidding/0.05

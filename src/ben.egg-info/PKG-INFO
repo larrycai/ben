@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: ben
+Version: 0.2.0
+Summary: bridge engine - ai system
+Requires-Python: >=3.8
+License-File: LICENSE
