@@ -3,11 +3,11 @@ import os.path
 
 from configparser import ConfigParser
 
-from nn.player_tf2 import BatchPlayer, BatchPlayerLefty
-from nn.bidder_tf2 import Bidder
-from nn.bid_info_tf2 import BidInfo
-from nn.leader_tf2 import Leader
-from nn.lead_singledummy_tf2 import LeadSingleDummy
+from player_tf2 import BatchPlayer, BatchPlayerLefty
+from bidder_tf2 import Bidder
+from bid_info_tf2 import BidInfo
+from leader_tf2 import Leader
+from lead_singledummy_tf2 import LeadSingleDummy
 
 
 class Models:
